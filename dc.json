@@ -1,0 +1,39 @@
+//公众号【云星日记】
+//公众号【云星日记】
+//公众号【云星日记】
+
+//多个个仓库：多个在线，一个本地
+//本地仓库：需要配合公众号本地包使用详情前往公众号回复关键词
+//在线仓库使用教程公众号回复【可视TV仓库地址】
+//本地仓库使用教程公众号回复【TVBox本地接口】
+
+//•Q①群号：783468715（2k人满）
+//•Q②群号：764366711（2k人满）
+//•Q③群号：211185159（新群）
+
+//QQ频道：搜索云星日记即可           
+//微信群;加客服赞赏入群           
+//客服微信:Yc_zhxx
+
+{
+"storeHouse":
+[
+
+
+{"sourceName":"☁️云星在线仓库","sourceUrl":"https://maoyingshi.cc/可视TV/云星日记/仓库/api.json"},
+{"sourceName":"☁️可视本地仓库","sourceUrl":"https://maoyingshi.cc/可视TV/云星日记/仓库/本地.json"},
+
+{"sourceName": "🌹云星备用①仓库🌹", "sourceUrl": "http://tv.nxog.top/nxog/ou.php?url=http://tv.nxog.top&b=云星" },
+{"sourceName": "🌷云星备用②仓库🌷", "sourceUrl": "http://1.nxog.top/nxog/ou.php?url=http://1.nxog.top&b=云星" },
+{"sourceName": "💐云星备用③仓库💐", "sourceUrl": "http://2.nxog.top/nxog/ou.php?url=http://2.nxog.top&b=云星" }, 
+{"sourceName": "🌸云星备用④仓库🌸", "sourceUrl": "http://3.nxog.top/nxog/ou.php?url=http://3.nxog.top&b=云星" }, 
+{"sourceName": "🌼云星备用⑤仓库🌼", "sourceUrl": "http://4.nxog.top/nxog/ou.php?url=http://4.nxog.top&b=云星" }, 
+{"sourceName": "🌻云星备用⑥仓库🌻", "sourceUrl": "http://5.nxog.top/nxog/ou.php?url=http://5.nxog.top&b=云星" },
+
+
+    
+{"sourceName":"减少仓库臃肿","sourceUrl":"/"},
+{"sourceName":"挑选优质接口","sourceUrl":"//"}
+        
+]
+}
